@@ -51,4 +51,4 @@ This is a sample project to loading the images from server and then You can down
 ![Screenshot](https://github.com/er-akashgarg/FilesLoading-Downloading/blob/master/screenshots/device-2019-05-15-132343.png)
 ![Screenshot](https://github.com/er-akashgarg/FilesLoading-Downloading/blob/master/screenshots/device-2019-05-15-132407.png)
 ![Screenshot](https://github.com/er-akashgarg/FilesLoading-Downloading/blob/master/screenshots/device-2019-05-15-132424.png)
-![Screenshot](https://github.com/er-akashgarg/FilesLoading-Downloading/blob/master/screenshots/device-device-2019-05-15-132509.png)
+![Screenshot](https://github.com/er-akashgarg/FilesLoading-Downloading/blob/master/screenshots/device-2019-05-15-132509.png)
