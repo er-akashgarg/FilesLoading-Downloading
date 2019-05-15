@@ -4,12 +4,11 @@ Files ( images and pdf) downloading from server into internal folder and Images 
 
 This is a sample project to loading the images from server and then You can download that image into your internal memory of the mobile . 
 
-# Language: Kotlin
-  
+
+# Language: Kotlin : 
+
    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-   apply plugin: 'kotlin-android'
-   apply plugin: 'kotlin-android-extensions'
-   apply plugin: 'kotlin-kapt'
+   
 
 # There are some deependencies which is used in this application .
 
