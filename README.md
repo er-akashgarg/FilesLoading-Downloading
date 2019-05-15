@@ -12,7 +12,7 @@ This is a sample project to loading the images from server and then You can down
 
 # There are some deependencies which is used in this application .
 
-# DI : Dagger2:
+# DI(Dependency Injection) : Dagger2:
     implementation "com.google.dagger:dagger:$dagger_version"
     kapt "com.google.dagger:dagger-compiler:$dagger_version"
     
