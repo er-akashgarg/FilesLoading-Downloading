@@ -48,8 +48,7 @@
                     android:layout_gravity="center"
                     android:textColor="@color/black"
                     android:textSize="@dimen/_13sdp"
-                    android:text="@{model.user.username}"
-            />
+                    android:text="@{model.user.username}"/>
 
         </LinearLayout>
 
@@ -69,7 +68,6 @@
                     android:src="@drawable/ic_download"
                     tools:ignore="ContentDescription"/>
         </androidx.cardview.widget.CardView>
-
 
     </RelativeLayout>
 
