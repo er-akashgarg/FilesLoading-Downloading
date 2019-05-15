@@ -28,7 +28,6 @@
 -dontwarn com.squareup.picasso.**
 
 
-
 #Retrofit2 -----------------------------------------------------------------------------------------
 -dontwarn retrofit2.**
 -keep class retrofit2.** { *; }
