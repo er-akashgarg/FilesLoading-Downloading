@@ -28,21 +28,18 @@ This is a sample project to loading the images from server and then You can down
      implementation "android.arch.paging:runtime:$pagging_version"
      
 # LiveData:
-   implementation "android.arch.lifecycle:extensions:$live_data_version"
+    implementation "android.arch.lifecycle:extensions:$live_data_version"
     implementation "android.arch.lifecycle:runtime:$live_data_version"
     kapt "android.arch.lifecycle:compiler:$live_data_version"
     
     
 # Proguard-: for Debug Mode:
-
-  buildTypes {
-        debug {
-            /* Here Proguard enabled in debug also */
-            minifyEnabled true
-            shrinkResources true
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
-    }
+       
+     minifyEnabled  true
+     shrinkResources  true
+     proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+       
+  
 
 
 # ScreenShots:
