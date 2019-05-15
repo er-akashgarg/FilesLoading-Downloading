@@ -2,7 +2,7 @@
 Files ( images and pdf) downloading from server into internal folder and Images Loading into app.
 
 
-This is a sample project to loading the images from server and then You can download that image into your internal memory of the mobile . 
+This is a sample project to loading the images from server and then You can download that image into your internal memory of the mobile . MVVM with LiveData is used in this project .
 
 
 # Language: Kotlin : 
